@@ -15,7 +15,7 @@
             Console.WriteLine("1 - add");
             Console.WriteLine("2 - Divide");
         }
-
+        //ggg
         static int calculateFactorial (int number )
         {
             int fact2 = 1;
